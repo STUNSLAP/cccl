@@ -1,0 +1,9 @@
+[
+  {
+    "name": "unstable",
+    "version": "unstable",
+    "url": "https://STUNSLAP.github.io/cccl/unstable/",
+    "latest": true,
+    "preferred": true
+  }
+]
